@@ -1,0 +1,51 @@
+{
+  "_from": "react-native-paypal",
+  "_id": "react-native-paypal@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha1-s1NJptCMAWfR5qId/cdGYZwkLSE=",
+  "_location": "/react-native-paypal",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-paypal",
+    "name": "react-native-paypal",
+    "escapedName": "react-native-paypal",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-paypal/-/react-native-paypal-1.0.3.tgz",
+  "_shasum": "b35349a6d08c0167d1e6a21dfdc746619c242d21",
+  "_spec": "react-native-paypal",
+  "_where": "/Volumes/PROJECT/ReactNative/SocialChief",
+  "author": {
+    "name": "contato@vizir.com.br"
+  },
+  "bugs": {
+    "url": "https://github.com/vizir/react-native-paypal/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Native PayPal payment screen for React Native",
+  "homepage": "https://github.com/vizir/react-native-paypal",
+  "keywords": [
+    "react",
+    "react-component",
+    "react-native",
+    "pay-pal",
+    "android"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-paypal",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vizir/react-native-paypal.git"
+  },
+  "version": "1.0.3"
+}
